@@ -2,4 +2,4 @@ The example code for running the model to simulate spatial isotopic varations of
 A cartoon showing the scope of the 1-D model:<br/>
 <img src='./cartoon.jpg' width=60%><br/>
 The model simulation tuned to match with HN2208 data:<br/>
-<img src='./HN2208 simulation.jpg' width=60%><br/>
+<img src='./simulation HN2208.jpg' width=60%><br/>
