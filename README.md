@@ -1,1 +1,1 @@
-The code for running the model to simulate spatial isotopic varations of peatland surface water in a 1-D transect, used in the manuscript by Xia et al.
+The example code for running the model to simulate spatial isotopic varations of peatland surface water in a 1-D transect, developed by Xia et al. and presented in a manuscsript submitted to Mires and Peat (submission date: Jan 26, 2024).\![cartoon](https://github.com/user-attachments/assets/2913b8eb-94c8-4ca8-a4df-18f6be458eec)
